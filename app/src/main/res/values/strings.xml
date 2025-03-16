@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mortgage_Calculator</string>
+    <string name="principal_amount_text">Principal Amount</string>
+    <string name="annual_interest_text">Annual Interest Rate (%)</string>
+    <string name="loan_terms_text">Loan Terms (Years)</string>
+    <string name="calculate_button">CALCULATE</string>
+    <string name="result_text">Results will be displayed here.</string>
+    <string name="monthly_payment_text"> </string>
+    <string name="total_payment_text"> </string>
+</resources>
